@@ -1,3 +1,6 @@
+// (2100018411) - Fahrizky S I
+// (2100018406) - Galang Pakusadewa
+// (2100018408) - Arya Budiman
 #include <iostream>
 #define MAX 5
 using namespace std;
